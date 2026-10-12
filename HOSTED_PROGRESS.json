@@ -1,0 +1,11 @@
+{
+  "can_attempt": false,
+  "completed_steps": 2,
+  "course_complete": true,
+  "course_hash": "eede04812324caa34b907422c73ae907fc42d50a25e5dc9a12d40397b7df6d38",
+  "course_id": 0,
+  "course_open": true,
+  "learner": "0x507de2c3391f085e99208c28ad4eeaf567995b43",
+  "next_checkpoint": -1,
+  "total_steps": 2
+}

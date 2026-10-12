@@ -1,0 +1,1 @@
+I restore the starting arrangement and count the pieces before closing the box. If a piece is missing, I add a missing-piece note inside and do not mark it complete.

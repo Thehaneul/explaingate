@@ -1,0 +1,42 @@
+{
+  "checkpoints": [
+    {
+      "title": "Borrowing a puzzle box",
+      "reference": "At the fictional Cedar Reading Club, members borrow one puzzle box at a time. Record its code in the checkout log so the next volunteer can trace who has it. Return the box to the blue shelf after use. The room opens at 09:00.",
+      "question": "Explain how to borrow and return a puzzle box, including why its code is recorded.",
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Say a member may borrow only one puzzle box at a time."
+        },
+        {
+          "id": "C2",
+          "text": "Explain that recording the box code lets the next volunteer trace who has it."
+        },
+        {
+          "id": "C3",
+          "text": "Say the box must be returned to the blue shelf after use."
+        }
+      ]
+    },
+    {
+      "title": "Checking a returned puzzle",
+      "reference": "A completed puzzle is reset into its original arrangement. Pieces are counted before the box is closed. If a piece is missing, place a missing-piece note inside the box; do not mark the set complete.",
+      "question": "Explain how to check and pack a returned puzzle, including what to do if a piece is missing.",
+      "criteria": [
+        {
+          "id": "C1",
+          "text": "Reset the puzzle into its original arrangement."
+        },
+        {
+          "id": "C2",
+          "text": "Count the pieces before closing the box."
+        },
+        {
+          "id": "C3",
+          "text": "If a piece is missing, put a note inside the box and do not mark the set complete."
+        }
+      ]
+    }
+  ]
+}

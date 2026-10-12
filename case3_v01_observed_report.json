@@ -1,0 +1,35 @@
+{
+  "readiness": {
+    "evidence": [],
+    "reason": "The reference contains all necessary facts to address the question and satisfy every criterion through straightforward reasoning.",
+    "status": "READY"
+  },
+  "report": {
+    "criteria": [
+      {
+        "answer_quote": "I take just one puzzle box.",
+        "id": "C1",
+        "reason": "The learner correctly states that they take only one box.",
+        "status": "MET"
+      },
+      {
+        "answer_quote": "I log its code so the next volunteer can trace who has it.",
+        "id": "C2",
+        "reason": "The learner explains the purpose of recording the code as per the reference.",
+        "status": "MET"
+      },
+      {
+        "answer_quote": "I put it back on the red shelf.",
+        "id": "C3",
+        "reason": "The learner claims the box goes to the red shelf, but the reference specifies the blue shelf.",
+        "status": "INCORRECT"
+      }
+    ],
+    "extra": {
+      "answer_quote": "I put it back on the red shelf.",
+      "reason": "The answer specifies a red shelf for returns, which contradicts the reference's instruction to use the blue shelf.",
+      "reference_quote": "Return the box to the blue shelf after use.",
+      "status": "CONTRADICTS_REFERENCE"
+    }
+  }
+}
